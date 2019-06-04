@@ -1,0 +1,14 @@
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\bin\Debug\netcoreapp2.1\WebApliCountries.deps.json
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\bin\Debug\netcoreapp2.1\WebApliCountries.runtimeconfig.json
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\bin\Debug\netcoreapp2.1\WebApliCountries.runtimeconfig.dev.json
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\bin\Debug\netcoreapp2.1\WebApliCountries.dll
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\bin\Debug\netcoreapp2.1\WebApliCountries.pdb
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.csproj.CoreCompileInputs.cache
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.RazorAssemblyInfo.cache
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.RazorAssemblyInfo.cs
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.AssemblyInfoInputs.cache
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.AssemblyInfo.cs
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.RazorTargetAssemblyInfo.cache
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.dll
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.pdb
+E:\Net\Net Core\Unidad 1\FirtsProject\WebApliCountries\obj\Debug\netcoreapp2.1\WebApliCountries.csprojAssemblyReference.cache
